@@ -1,1 +1,1 @@
-# css-transitions
+# CSS-Transitions
