@@ -1,3 +1,3 @@
 # CSS-Transitions
 
-This is a tutorial for learning CSS Transitions.
+This is a tutorial and example for learning CSS Transitions.
