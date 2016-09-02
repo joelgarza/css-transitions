@@ -1,0 +1,12 @@
+.item .cover {
+  width: 480px;
+  height: 272px;
+  font: 1em/1.5em 'Arial', 'Verdana', sans-serif;
+  background-color: grey;
+  position: absolute;
+  transition: opacity 750ms;
+}
+
+.item .cover.open {
+  opacity: 0;
+}

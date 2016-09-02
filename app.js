@@ -1,2 +1,5 @@
 //this is a tutorial
-okayyyyyyy
+jQuery('.cover').click(function(e) {
+  var target = jQuery(e.currentTarget);
+  target.toggleClass('open');
+});
